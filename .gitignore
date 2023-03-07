@@ -1,0 +1,14 @@
+# Data Files
+*.xlsx
+
+# Generated Files
+build/
+TestCaseWise/
+Report/
+mapping/
+logs/
+*.pyc
+*.pyd
+*.html
+*.c
+results.json
